@@ -1,7 +1,7 @@
 - 🏫 Instituição: CEFET-MG
 - 🖥 Curso: Informática
-- 📘 Série: 1° Ano
-- 🚀 Atualmente estou estudando: C, HTML, CSS, JS e Python
+- 📘 Série: 2° Ano
+- 🚀 Atualmente estou estudando: C, HTML, CSS, JS, Java e Python
 
 <div>
   <a href="https://github.com/exoticlucass">
