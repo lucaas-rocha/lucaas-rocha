@@ -30,30 +30,30 @@ Embora minha experiência no mercado de trabalho seja limitada, possuo sólida c
 Atualmente, sou estudante de técnico em informática integrado ao Ensino Médio pelo CEFET-MG de Belo Horizonte, com previsão de formação em 2024.
 
 ## Contato
-- [lulucas2007@hotmail.com](mailto:lulucas2007@hotmail.com)
+- [lucas.a.rocha@outlook.com](lucas.a.rocha@outlook.com)
 - [Linkedin](https://www.linkedin.com/in/lucas-de-almeida-rocha-19599a332/)
 
 #
 
 <div align="center">
   <p>Contador de visualizações</p>
-<img align="center" src="https://profile-counter.glitch.me/{exoticlucass}/count.svg" /></p>
+<img align="center" src="https://profile-counter.glitch.me/{lucaas-rocha}/count.svg" /></p>
 </div>
 
 <div align="center" style="display: inline"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=exoticlucass&theme=radical&show_icons=true&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucaas-rocha&theme=radical&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=exoticlucass&layout=compact&theme=radical&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaas-rocha&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 </div>
 
 <div align="center" style="display: inline">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/exoticlucass/exoticlucass/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/exoticlucass/exoticlucass/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/exoticlucass/exoticlucass/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaas-rocha/lucaas-rocha/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaas-rocha/lucaas-rocha/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lucaas-rocha/lucaas-rocha/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <!-- ![Snake animation](https://raw.githubusercontent.com/exoticlucass/exoticlucass/output/github-contribution-grid-snake-dark.svg) -->                              
