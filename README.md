@@ -1,6 +1,6 @@
 
 # Quem eu sou?
-Meu nome é Lucas de Almeida Rocha, sou de Belo Horizonte - MG. Atualmente sou um estudante quase formado no ensino médio técnico, buscando oportunidades de obter experiência profissional.
+Meu nome é Lucas de Almeida Rocha, sou de Belo Horizonte - MG. Atualmente sou formado no ensino médio técnico e cursando Engenharia de Computação no CEFET-MG, buscando oportunidades de obter experiência profissional.
 
 ## Profissional
 
